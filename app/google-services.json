@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "711084269045",
+    "project_id": "barcode-98ce4",
+    "storage_bucket": "barcode-98ce4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711084269045:android:5d90db64c24eaf12f594bc",
+        "android_client_info": {
+          "package_name": "com.rono.barcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711084269045-o0mn57jjsdu6s99stu9lqmradncq4k3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANtSP1V0lXxl5zupNRGeFu-p21TFF_1mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711084269045-o0mn57jjsdu6s99stu9lqmradncq4k3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
